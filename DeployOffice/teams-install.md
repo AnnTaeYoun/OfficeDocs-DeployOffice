@@ -14,9 +14,11 @@ description: "Provides Office admins with an overview of how Microsoft Teams wil
 
 # Deploy Microsoft Teams with Office 365 ProPlus
 
-Currently, Microsoft Teams is a separate installation from Office 365 ProPlus. But, starting in late February 2019, Teams will be installed by default for ***new*** installations of Office 365 ProPlus, starting with Version 1902 in Monthly Channel.
+현재 Microsoft Teams는 Office 365 ProPlus에서 별도 설치 방식 이었습니다. 
+2019년 2월 부터는 Office 365 ProPlus를 신규로 설치 시에 업데이트 방식이 월별 채널이면 기본적으로 Microsoft Teams 가 설치 됩니다.
 
-Existing installations of Office 365 ProPlus won’t be affected at this time. If Skype for Business is already installed, Skype for Business won’t be removed and will continue to function as before. Also, Skype for Business will continue to be installed by default when you install Office 365 ProPlus.
+기존에 Office 365 ProPlus가 설치 되어 있으면 영향을 받지 않습니다. 
+Skype for Business가 이미 설치 된 경우 Skype for Business는 제거 되지 않습니다.
 
 ## When will Microsoft Teams start being installed by default with Office 365 ProPlus?
 
